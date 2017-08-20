@@ -1,2 +1,5 @@
-# Request-Header-Parser
-Built for FreeCodeCamp's back end cirriculum. 
+Reader Header Parser
+=========================
+
+Output the IP address, language, and browser of the user. 
+
